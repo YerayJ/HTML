@@ -1,0 +1,22 @@
+em {
+    color: blue;
+
+}
+
+em li {
+    font-weight: bold;
+}
+
+em em {
+    color: red;
+}
+
+font[face]{
+    font-weight: bold;
+}
+font[face="Courier"]{
+    font-style: italic;
+}
+font[face="serif"]{
+    color: green;
+}
